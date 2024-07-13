@@ -1,6 +1,8 @@
 import "package:flutter/material.dart";
 
 class CardsSreen extends StatelessWidget {
+
+  static const name = 'Cards_screen';
   const CardsSreen({super.key});
 
   @override
